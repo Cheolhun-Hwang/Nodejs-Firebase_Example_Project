@@ -57,7 +57,7 @@ Nodejs + Firebase Example Project
  
  
 ## REF : Firebase Doc - chapter. 관리자
-시작하기 : <https://firebase.google.com/docs/database/admin/start?hl=ko>
-데이터 구조화 : <https://firebase.google.com/docs/database/admin/structure-data?hl=ko>
-데이터 저장 : <https://firebase.google.com/docs/database/admin/save-data?hl=ko>
-데이터 검색 : <https://firebase.google.com/docs/database/admin/retrieve-data?hl=ko>
+- 시작하기 : <https://firebase.google.com/docs/database/admin/start?hl=ko>
+- 데이터 구조화 : <https://firebase.google.com/docs/database/admin/structure-data?hl=ko>
+- 데이터 저장 : <https://firebase.google.com/docs/database/admin/save-data?hl=ko>
+- 데이터 검색 : <https://firebase.google.com/docs/database/admin/retrieve-data?hl=ko>
